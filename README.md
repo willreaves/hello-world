@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I like popsicles and Powershell, but not in that order.
